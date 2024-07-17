@@ -3,4 +3,4 @@
 
 ## What is FlowVR?
 
-FlowVR is a [Photon Fusion 2](https://doc.photonengine.com/fusion/current/fusion-intro) wrapper for VR that uses shared mode.
+FlowVR is a [Photon Fusion 2](https://doc.photonengine.com/fusion/current/fusion-intro) wrapper for easy VR networking.
