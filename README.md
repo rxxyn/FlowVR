@@ -1,5 +1,5 @@
 # FlowVR
-![FlowVR landscape logo](https://github.com/user-attachments/assets/68b1bd4b-061a-4288-bbf2-0a4fde772794)
+![FlowVRLandscape](https://github.com/user-attachments/assets/2f71beb2-e389-4ce5-ab84-17522252e2a2)
 
 ## What is FlowVR?
 
