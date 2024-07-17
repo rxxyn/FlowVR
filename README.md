@@ -1,4 +1,8 @@
 # FlowVR
+[![Download](https://img.shields.io/badge/Download-blue.svg)](https://github.com/rxxyn/FlowVR/releases) &nbsp; 
+[![Discord](https://img.shields.io/badge/Discord-blue.svg)]( https://discord.gg/g6xQ5SyCBN)&nbsp; 
+
+
 ![FlowVRLandscape](https://github.com/user-attachments/assets/2f71beb2-e389-4ce5-ab84-17522252e2a2)
 
 ## What is FlowVR?
