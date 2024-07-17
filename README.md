@@ -11,7 +11,7 @@ Photon Fusion allows for a [**FREE 100 CCU**](https://blog.photonengine.com/new-
 # Documentation
 
 The recommended Unity version is [2021.3.28](https://unity.com/releases/editor/whats-new/2021.3.28#notes). <br />
-No other version is ensured to work, and using other versions could put you at risk.<br />
+No other version is ensured to work, and using other versions could cause error.<br />
 
 Installing FlowVR is made easier then ever.<br /> Unzip the latest .zip from Releases, import into your project, and you're good! No import errors or difficulty, as everything needed is already included in the package for easy use.<br />
 
