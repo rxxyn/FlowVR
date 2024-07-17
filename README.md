@@ -3,4 +3,9 @@
 
 ## What is FlowVR?
 
-FlowVR is a [Photon Fusion 2](https://doc.photonengine.com/fusion/current/fusion-intro) wrapper for easy VR networking.
+FlowVR is a [Photon Fusion 2](https://doc.photonengine.com/fusion/current/fusion-intro) wrapper made for easy VR networking.
+
+# Documentation
+
+The recommended Unity version is [2021.3.28](https://unity.com/releases/editor/whats-new/2021.3.28#notes). No other version is ensured to work, and using other versions could put you at risk.
+Installing FlowVR is made easier then ever. Import
