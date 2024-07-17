@@ -15,4 +15,4 @@ No other version is ensured to work, and using other versions could cause error.
 
 Installing FlowVR is made easier then ever.<br /> Unzip the latest .zip from Releases, import into your project, and you're good! No import errors or difficulty, as everything needed is already included in the package for easy use.<br />
 
-For full documentation and explanations, visit the Wiki.
+For full documentation and explanations, visit [the Wiki.](https://github.com/rxxyn/FlowVR/wiki)
