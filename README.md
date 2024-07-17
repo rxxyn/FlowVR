@@ -1,2 +1,3 @@
 # FlowVR
+![FlowVR landscape logo](https://github.com/user-attachments/assets/68b1bd4b-061a-4288-bbf2-0a4fde772794)
 coming soon...
