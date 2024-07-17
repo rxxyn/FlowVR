@@ -7,5 +7,7 @@ FlowVR is a [Photon Fusion 2](https://doc.photonengine.com/fusion/current/fusion
 
 # Documentation
 
-The recommended Unity version is [2021.3.28](https://unity.com/releases/editor/whats-new/2021.3.28#notes). No other version is ensured to work, and using other versions could put you at risk.
-Installing FlowVR is made easier then ever. Import
+The recommended Unity version is [2021.3.28](https://unity.com/releases/editor/whats-new/2021.3.28#notes). <br />
+No other version is ensured to work, and using other versions could put you at risk.<br />
+
+Installing FlowVR is made easier then ever.<br /> Import the latest UnityPackage from Releases, and you're good! No import errors or difficulty, as everything needed is already included in the package for easy use.
