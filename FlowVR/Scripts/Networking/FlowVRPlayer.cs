@@ -53,18 +53,12 @@ namespace FlowVR
             StartCoroutine(LoadPlayerData());
             StartCoroutine(SyncCosmetics());
 
-            if (HideLocalPlayer)
+            foreach (Renderer pR in playerRenderers)
             {
-                foreach (Renderer pR in playerRenderers)
-                {
-                    pR.enabled = false;
-                }
+                pR.enabled = !HideLocalPlayer;
             }
 
-            if (HideLocalName)
-            {
-                usernameDisplay.enabled = false;
-            }
+            usernameDisplay.enabled = !HideLocalName;
         }
 
         private IEnumerator SyncCosmetics()
